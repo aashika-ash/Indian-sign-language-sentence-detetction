@@ -1,6 +1,2 @@
-# Indian-sign-language-sentence-detetction
-1.src file was a front end file(react.js)
-2.main.py,app_sentence.py,app_letter.py are the backend file(flask)
-3. models folder contain the trained model for detecting sentence, letters and numbers
-4. Datacollection.py,modeltrainig.py,realtime.py codes are used to train the sentence level detection model and also check it in realtime (creating own dataset).
-5. newmod.ipym file is used to train the sentence and letters(dataswet collect from kaggle)
+Indian Sign Language Sentence Detection
+This project aims to detect Indian Sign Language (ISL) gestures for letters, numbers, and sentence-level communication using deep learning models. It combines a React.js frontend with a Flask-based Python backend to provide real-time gesture recognition support.
