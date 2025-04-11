@@ -4,7 +4,6 @@ This project aims to detect Indian Sign Language (ISL) gestures for letters, num
 
 
 
-
     
 Indian-sign-language-sentence-detection/
 │
